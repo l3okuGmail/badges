@@ -369,7 +369,7 @@
       "groupId": "audio-channels",
       "name": "5.1 Audio",
       "pattern": "(?i)\\b(5\\.1|5-1|6ch|6\\s*channel)\\b",
-      "imageURL": "https://github.com/l3okuGmail/badges/raw/refs/heads/main/icons/5.1-d.svg",
+      "imageURL": "https://github.com/l3okuGmail/badges/raw/refs/heads/main/icons/5.1-e.svg",
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
