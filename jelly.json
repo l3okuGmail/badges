@@ -136,7 +136,7 @@
       "groupId": "video-tech",
       "name": "HDR10",
       "pattern": "(?i)\\b(hdr10|hdr\\s*10)\\b(?!\\s*\\+|\\s*plus)",
-      "imageURL": "https://github.com/l3okuGmail/badges/raw/refs/heads/main/icons/hdr10-j1.svg",
+      "imageURL": "https://github.com/l3okuGmail/badges/raw/refs/heads/main/icons/hdr10-j2.svg",
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
