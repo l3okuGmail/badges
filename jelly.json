@@ -71,7 +71,7 @@
       "groupId": "resolution",
       "name": "1080p Full HD",
       "pattern": "(?i)\\b(1080p|fhd|full\\s*hd)\\b",
-      "imageURL": "https://raw.githubusercontent.com/l3okuGmail/badges/refs/heads/main/icons/1080p-j.png",
+      "imageURL": "https://raw.githubusercontent.com/l3okuGmail/badges/refs/heads/main/icons/1080p-1.png",
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
