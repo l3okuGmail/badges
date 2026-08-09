@@ -6,7 +6,7 @@
       "groupId": "resolution",
       "name": "4K Ultra HD",
       "pattern": "(?i)\\b(4k|2160p|uhd|ultra\\s*hd)\\b",
-      "imageURL": "https://raw.githubusercontent.com/l3okuGmail/badges/refs/heads/main/icons/4K-j.png",
+      "imageURL": "https://raw.githubusercontent.com/l3okuGmail/badges/refs/heads/main/icons/4K-j2.png",
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
