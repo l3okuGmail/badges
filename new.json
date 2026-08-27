@@ -222,32 +222,6 @@
       "type": "filter"
     },
     {
-      "id": "10bit",
-      "groupId": "bit-depth",
-      "name": "10Bit",
-      "pattern": "(?i)\\b(10[\\s._-]?bit|10b|hi10p)\\b",
-      "imageURL": "https://raw.githubusercontent.com/6otho/Epx-Badge/main/Badges/10bit.png",
-      "tagColor": "#00000000",
-      "borderColor": "#00000000",
-      "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
-      "isEnabled": true,
-      "type": "filter"
-    },
-    {
-      "id": "8bit",
-      "groupId": "bit-depth",
-      "name": "8Bit",
-      "pattern": "(?i)\\b(8[\\s._-]?bit|8b)\\b",
-      "imageURL": "https://raw.githubusercontent.com/6otho/Epx-Badge/main/Badges/8bit.png",
-      "tagColor": "#00000000",
-      "borderColor": "#00000000",
-      "textColor": "#00000000",
-      "tagStyle": "filled and bordered",
-      "isEnabled": true,
-      "type": "filter"
-    },
-    {
       "id": "dolby-atmos",
       "groupId": "audio-tech",
       "name": "Dolby Atmos",
@@ -352,6 +326,71 @@
       "type": "filter"
     },
     {
+      "id": "dolby-vision-p5",
+      "groupId": "dv-profile",
+      "name": "Dolby Vision P5",
+      "pattern": "(?i)\\b(?:dovi|dv|dolby[\\s._-]*vision)[\\s._-]*(?:p(?:rofile)?[.\\s_-]?0?5|0?5)\\b|\\bprofile[.\\s_-]?0?5\\b",
+      "imageURL": "https://raw.githubusercontent.com/6otho/EplayerX-TagStyler/refs/heads/main/images/P5-b.svg",
+      "tagColor": "#00000000",
+      "borderColor": "#00000000",
+      "textColor": "#00000000",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "dolby-vision-p7",
+      "groupId": "dv-profile",
+      "name": "Dolby Vision P7",
+      "pattern": "(?i)\\b(?:dovi|dv|dolby[\\s._-]*vision)[\\s._-]*(?:p(?:rofile)?[.\\s_-]?0?7|0?7)\\b|\\bprofile[.\\s_-]?0?7\\b",
+      "imageURL": "https://raw.githubusercontent.com/6otho/EplayerX-TagStyler/refs/heads/main/images/P7-b.svg",
+      "tagColor": "#00000000",
+      "borderColor": "#00000000",
+      "textColor": "#00000000",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "dolby-vision-p8",
+      "groupId": "dv-profile",
+      "name": "Dolby Vision P8",
+      "pattern": "(?i)\\b(?:dovi|dv|dolby[\\s._-]*vision)[\\s._-]*(?:p(?:rofile)?[.\\s_-]?0?8|0?8)\\b|\\bprofile[.\\s_-]?0?8\\b",
+      "imageURL": "https://raw.githubusercontent.com/6otho/EplayerX-TagStyler/refs/heads/main/images/P8-b.svg",
+      "tagColor": "#00000000",
+      "borderColor": "#00000000",
+      "textColor": "#00000000",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "10bit",
+      "groupId": "bit-depth",
+      "name": "10Bit",
+      "pattern": "(?i)\\b(10[\\s._-]?bit|10b|hi10p)\\b",
+      "imageURL": "https://raw.githubusercontent.com/6otho/Epx-Badge/main/Badges/10bit.png",
+      "tagColor": "#00000000",
+      "borderColor": "#00000000",
+      "textColor": "#00000000",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
+      "id": "8bit",
+      "groupId": "bit-depth",
+      "name": "8Bit",
+      "pattern": "(?i)\\b(8[\\s._-]?bit|8b)\\b",
+      "imageURL": "https://raw.githubusercontent.com/6otho/Epx-Badge/main/Badges/8bit.png",
+      "tagColor": "#00000000",
+      "borderColor": "#00000000",
+      "textColor": "#00000000",
+      "tagStyle": "filled and bordered",
+      "isEnabled": true,
+      "type": "filter"
+    },
+    {
       "id": "71-audio",
       "groupId": "audio-channels",
       "name": "7.1 Audio",
@@ -408,15 +447,22 @@
       "isExpanded": true
     },
     {
-      "id": "bit-depth",
-      "name": "Bit Depth",
+      "id": "audio-tech",
+      "name": "Audio Tech",
       "color": "#00000000",
       "borderColor": "#00000000",
       "isExpanded": true
     },
     {
-      "id": "audio-tech",
-      "name": "Audio Tech",
+      "id": "dv-profile",
+      "name": "Profile",
+      "color": "#00000000",
+      "borderColor": "#00000000",
+      "isExpanded": true
+    },
+    {
+      "id": "bit-depth",
+      "name": "Bit Depth",
       "color": "#00000000",
       "borderColor": "#00000000",
       "isExpanded": true
