@@ -374,7 +374,7 @@
       "borderColor": "#00000000",
       "textColor": "#00000000",
       "tagStyle": "filled and bordered",
-      "isEnabled": true,
+      "isEnabled": false,
       "type": "filter"
     },
     {
@@ -387,7 +387,7 @@
       "borderColor": "#00000000",
       "textColor": "#00000000",
       "tagStyle": "filled and bordered",
-      "isEnabled": true,
+      "isEnabled": false,
       "type": "filter"
     },
     {
